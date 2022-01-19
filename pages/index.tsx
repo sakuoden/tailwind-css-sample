@@ -27,6 +27,10 @@ const Home: NextPage = () => {
             </div>
           </div>
         </div>
+
+        <h2 className="[color:red]">
+          どうなの？
+        </h2>
       </main>
 
       <footer>
