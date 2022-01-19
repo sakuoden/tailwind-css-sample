@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .button {
+    background-color: coral;
+    color: white;
+  }
+}
+
 html,
 body {
   padding: 0;

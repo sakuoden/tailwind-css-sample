@@ -31,6 +31,8 @@ const Home: NextPage = () => {
         <h2 className="hover:[color:red]">
           どうなの？
         </h2>
+
+        <button className="button">カスタムCSSのテスト</button>
       </main>
 
       <footer>
