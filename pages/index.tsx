@@ -14,6 +14,19 @@ const Home: NextPage = () => {
         <h1 className="text-3xl font-bold underline">
           Hello world!
         </h1>
+
+        <div className="mt-5 max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+          <div className="md:flex">
+            <div className="md:shrink-0">
+              <img src="/vercel.svg" alt="Vercel" className="h-35 w-full object-cover md:w-48" />
+            </div>
+            <div className="p-8">
+              <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Case study</div>
+              <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Finding customers for your new business</a>
+              <p className="mt-2 text-slate-500">Getting a new business off the ground is a lot of hard work. Here are five ideas you van use to find your first customers.</p>
+            </div>
+          </div>
+        </div>
       </main>
 
       <footer>
