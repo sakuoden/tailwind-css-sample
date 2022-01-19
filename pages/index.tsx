@@ -28,7 +28,7 @@ const Home: NextPage = () => {
           </div>
         </div>
 
-        <h2 className="[color:red]">
+        <h2 className="hover:[color:red]">
           どうなの？
         </h2>
       </main>
